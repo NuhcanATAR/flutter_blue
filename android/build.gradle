@@ -28,6 +28,7 @@ android {
 
     defaultConfig {
         minSdkVersion 19
+        namespace 'com.pauldemarco.flutter_blue'
     }
     sourceSets {
         main {
